@@ -37,7 +37,3 @@ Run the program using the following command:
 ```
 python main.py
 ```
-
-## Visualization:
-
-![User Ratings Distribution](images/user_rating_distribution.png)
